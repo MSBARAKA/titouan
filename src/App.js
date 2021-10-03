@@ -111,7 +111,7 @@ formMess.style.opacity = '0';
 
   return (
     <form className="contact-form">
-      <Title><h1>Contactez-moi</h1></Title>
+      <Title>Contactez-moi</Title>
       <Paragraph>Je suis à la recherche d'une entreprise pour mon apprentissage. J'ai été admise pour un bac+4 Symfony/php chez Openclassrooms et pour une formation Concepteur développeur d'application bac+4 chez Doranco. Je choisirai une des formations dans la semaine du 04/10/2021.Je pourrais déménager. Si vous êtes à la recherche d'une apprentie, vous êtes au bon endroit.</Paragraph>
       <div className="form-content">
         <input
