@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/titouan/static/css/main.5794f520.chunk.css",
-    "main.js": "/titouan/static/js/main.d7009ab1.chunk.js",
-    "main.js.map": "/titouan/static/js/main.d7009ab1.chunk.js.map",
+    "main.js": "/titouan/static/js/main.e5b23bd4.chunk.js",
+    "main.js.map": "/titouan/static/js/main.e5b23bd4.chunk.js.map",
     "runtime-main.js": "/titouan/static/js/runtime-main.4e020acc.js",
     "runtime-main.js.map": "/titouan/static/js/runtime-main.4e020acc.js.map",
     "static/js/2.d4e786a4.chunk.js": "/titouan/static/js/2.d4e786a4.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4e020acc.js",
     "static/js/2.d4e786a4.chunk.js",
     "static/css/main.5794f520.chunk.css",
-    "static/js/main.d7009ab1.chunk.js"
+    "static/js/main.e5b23bd4.chunk.js"
   ]
 }
